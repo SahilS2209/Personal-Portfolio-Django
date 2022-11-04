@@ -1,0 +1,1 @@
+web: gunicorn digi_resume.wsgi --log-file -
